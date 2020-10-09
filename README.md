@@ -19,4 +19,4 @@ Viz 3: Donation Type: Donation type give understanding how donations is received
 Viz 4: Nature of Donation : Donation covering which aspects of the cost. Useful in planning yearly goals and bifurcation of amount and how to achieve goals.
 Viz 5: Top 5 Donor  : Understanding the pattern of donation by top 5 donors. Example 2017, higher donation received from individuals.There is gradual fall for the past 2 years. 
 
-
+Link: https://public.tableau.com/profile/deepti.shandilya#!/vizhome/DonationsAcceptedbyBritishPoliticalParties_16016613664050/Dashboard
